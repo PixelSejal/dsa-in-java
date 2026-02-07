@@ -14,6 +14,7 @@ I am building this step by step while learning DSA patterns, starting with **Two
 - Arrays
 - Two Pointers
     - Move Zeroes
+    - Valid Palindrome
 
 ---
 
